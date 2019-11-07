@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Custom CSS",
+  "SystemName": "Widgets.CustomCSS",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.20", "4.30" ],
+  "Author": "Jake Weston",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.CustomCSS.dll",
+  "Description": "Creates Widget area for entering Custom CSS."
+}

@@ -1,0 +1,14 @@
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\logo.jpg
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\plugin.json
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\Views\Configure.cshtml
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\Views\PublicInfo.cshtml
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\Views\_ViewImports.cshtml
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\Nop.Plugin.Widgets.CustomCSS.deps.json
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\Nop.Plugin.Widgets.CustomCSS.dll
+C:\Users\Jacob Weston\Development\nopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.CustomCSS\Nop.Plugin.Widgets.CustomCSS.pdb
+C:\Users\Jacob Weston\Development\nopCommerce\src\Plugins\Nop.Plugin.Widgets.CustomCSS\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.CustomCSS.csprojAssemblyReference.cache
+C:\Users\Jacob Weston\Development\nopCommerce\src\Plugins\Nop.Plugin.Widgets.CustomCSS\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.CustomCSS.AssemblyInfoInputs.cache
+C:\Users\Jacob Weston\Development\nopCommerce\src\Plugins\Nop.Plugin.Widgets.CustomCSS\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.CustomCSS.AssemblyInfo.cs
+C:\Users\Jacob Weston\Development\nopCommerce\src\Plugins\Nop.Plugin.Widgets.CustomCSS\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.CustomCSS.csproj.CopyComplete
+C:\Users\Jacob Weston\Development\nopCommerce\src\Plugins\Nop.Plugin.Widgets.CustomCSS\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.CustomCSS.dll
+C:\Users\Jacob Weston\Development\nopCommerce\src\Plugins\Nop.Plugin.Widgets.CustomCSS\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.CustomCSS.pdb
